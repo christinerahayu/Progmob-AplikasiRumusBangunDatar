@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Bangun Datar</string>
+
+    <string-array name="bangun_datar">
+        <item>Segitiga</item>
+        <item>Persegi</item>
+        <item>Persegi Panjang</item>
+        <item>Jajar Genjang</item>
+        <item>Belah Ketupat</item>
+        <item>Layang-Layang</item>
+        <item>Trapesium</item>
+        <item>Lingkaran</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>"Segitiga adalah bangun datar yang terdiri dari 3 sisi garis lurus dengan 3 titik sudut yang berjumlah 180º.
+            \nRumus menghitung luas segitiga adalah
+            \t \t \t \t L = 1/2 . a . t
+            \n Keterangan:
+            \t a adalah alas
+            \t t adalah tinggi
+            \t tanda (.) sama dengan tanda (x)
+            \n Rumus menghitung keliling segitiga adalah:
+            \t \t \t \t K = a + b + c" \n\n
+        </item>
+        <item>
+            "Persegi adalah bangun datar 2 dimensi yang dibentuk oleh empat sisi yang sama panjang dan keempat titik sudutnya membentuk sudut siku-siku (90º).
+            \nRumus menghitung luas persegi adalah:
+            \t \t \t \t L = s x s
+            \n Keterangan:
+            \t L adalah luas
+            \t s adalah sisi persegi.
+            \n Rumus menghitung keliling persegi adalah:
+            \t \t \t \t K = 4 x s
+            \n Keterangan:
+            \t K adalah keliling
+            \t s adalah ukuran sisi \n \n "
+        </item>
+        <item>
+            "Persegi Panjang adalah bangun datar 2 dimensi yang mempunyai 2 pasang sisi sejajar yang sama Panjang dan mempunyai 4 titik sudut siku-siku.
+            \n Rumus menghitung luas persegi panjang ialah:
+            \t \t \t \t L = p . l
+            \n Keterangan:
+            \t L adalah luas
+            \t p adalah panjang
+            \t l adalah lebar
+            \t tanda (.) sama dengan tanda (x)
+            \n Rumus menghitung keliling persegi panjang ialah:
+            \t \t \t \t K = (2 . p) + (2 . l) atau
+            \t \t \t \t K = 2p + 2l \n\n"
+        </item>
+        <item>
+            "Jajar genjang adalah bangun datar 2 dimensi yang tersusun oleh 2 pasang sisi yang sama panjang dan sejajar serta mempunyai 2 pasang sudut yang sama besar (pasangan sudut lancip dan pasangan sudut tumpul).
+            \nRumus menghitung luas jajar genjang ialah:
+            \t \t \t \t L = alas . tinggi
+            \n Keterangan:
+            \t L adalah luas jajar genjang
+            \t alas adalah panjang alasnya
+            \t tinggi adalah panjang tingginya
+            \n Rumus menghitung keliling jajar genjang ialah:
+            \t \t \t \t K = (2 x a) + (2 x sisi miringnya)\n\n"
+        </item>
+        <item>
+            "Belah Ketupat adalah bangun datar 2 dimensi yang dibentuk oleh 4 buah sisi yang sama panjang dan mempunyai 2 pasang sudut bukan siku-siku dengan sudut yang saling berhadapan mempunyai besar sama.
+            \nRumus menghitung luas belah ketupat ialah:
+            \t \t \t \t Luas belah ketupat = ½ . d1 . d2
+            \n Keterangan:
+            \t d1 adalah diagonal 1
+            \t d2 adalah diagonal 2
+            \n Rumus menghitung keliling belah ketupat ialah:
+            \t \t \t \t Keliling = 4 x s\n\n"
+        </item>
+        <item>
+            "Layang-layang adalah bangun datar yang dibentuk oleh 2 pasang sisi sama panjang yang saling membentuk sudut yang berbeda.
+            \n Rumus menghitung luas layang-layang ialah:
+            \t \t \t \t Luas layang layang = ½ x d1 x d2
+            \n Keterangan:
+            \t d1 adalah diagonal vertikal
+            \t d2 adalah diagonal horizontal
+            \n Rumus menghitung keliling layang-layang ialah:
+            \t \t \t \t Keliling layang layang = 2 x s1 + 2 x s2 atau
+            \t \t \t \t Keliling = 2x(s1 + s2)\n\n"
+        </item>
+        <item>
+            "Trapesium adalah bangun datar dua dimensi yang tersusun oleh 4 buah sisi yaitu 2 buah sisi sejajar yang tidak sama panjang dan 2 buah sisi lainnya.
+            \nRumus menghitung luas trapesium ialah:
+            \t \t \t \t Luas Trapesium = 1/2 x (A+B) x tinggi
+            \n Keterangan:
+            \t Jumlah sisi sejajar adalah A + B.
+            \t t adalah tinggi trapesium
+            \n Rumus menghitung keliling trapesium ialah:
+            \t \t \t \t Keliling Trapesium = S1 + S2 + S3 + S4\n\n"
+        </item>
+        <item>
+            "Lingkaran adalah bangun datar dua dimensi dibentuk oleh himpunan semua titik yang mempunyai jarak sama dari suatu titik tetap.
+            \n Rumus menghitung luas lingkaran ialah:
+            \t \t \t \t Luas Lingkaran = π x r x r
+            \n Keterangan:
+            \t  π ( phi ) adalah 3,14 atau 22/7
+            \t  r = adalah jari jari lingkaran .
+            \n Rumus menghitung keliling lingkaran ialah:
+            \t \t \t \t Keliling = π . d
+            \t \t \t \t K = π . 2 . jari-jari
+            \n Keterangan:
+            \t  d adalah diameter
+            \t  r adalah jari-jari
+            \t  π (phi) = 22/7 (jari jari kelipatan 7)
+            \t  atau 3.14 (jari jari selain kelipatan 7)\n\n"
+        </item>
+    </string-array>
+
+
+</resources>
